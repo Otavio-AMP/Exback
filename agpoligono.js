@@ -1,3 +1,3 @@
-let n = 5;
+let n = 6;
 let S = (n - 2)*180;
 console.log(S);
